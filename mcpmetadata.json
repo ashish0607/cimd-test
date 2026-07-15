@@ -4,7 +4,7 @@
   "client_uri": "https://ashish0607.github.io/cimd-test",
   "logo_uri": "https://github.com/fluidicon.png",
   "redirect_uris": [
-    "http://localhost:3000/callback"
+    "https://example.com"
   ],
   "grant_types": [
     "authorization_code"
