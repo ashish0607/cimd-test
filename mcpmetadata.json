@@ -15,7 +15,4 @@
     "code"
   ],
   "token_endpoint_auth_method": "none",
-  "jwks": {
-    "keys": []
-  }
 }
